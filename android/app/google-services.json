@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "project_number": "1055510874417",
+    "firebase_url": "https://taxi-1d8d9-default-rtdb.firebaseio.com",
+    "project_id": "taxi-1d8d9",
+    "storage_bucket": "taxi-1d8d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055510874417:android:4827c9729411e6a2f68810",
+        "android_client_info": {
+          "package_name": "com.aaddev.my_loc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055510874417-u9asq1k4bda83knjsesmskjp0ug6rv4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5bceVkPdH18a7yUWxkwsIHLSD9yE-Lms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055510874417-u9asq1k4bda83knjsesmskjp0ug6rv4p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1055510874417-69u6qjosnucjvv5nhfrd5nntc0rndvl9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.liveLocation"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055510874417:android:133a53005a2d5c40f68810",
+        "android_client_info": {
+          "package_name": "com.cabme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055510874417-0dpqvct3utjn3qetb4menu90febmhnnt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cabme",
+            "certificate_hash": "09aa9a0e929beb43d456fd8c3247e187c09d7fa7"
+          }
+        },
+        {
+          "client_id": "1055510874417-4g0eq0i4bhnamprn627hajk045mlqli2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cabme",
+            "certificate_hash": "6181f890062c1926326c40d445aceb784d696874"
+          }
+        },
+        {
+          "client_id": "1055510874417-u9asq1k4bda83knjsesmskjp0ug6rv4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5bceVkPdH18a7yUWxkwsIHLSD9yE-Lms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055510874417-u9asq1k4bda83knjsesmskjp0ug6rv4p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1055510874417-69u6qjosnucjvv5nhfrd5nntc0rndvl9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.liveLocation"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055510874417:android:d4dbea6139bb6151f68810",
+        "android_client_info": {
+          "package_name": "com.taxi.taxi_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055510874417-clnmatcbicei0mhhad4ps3nf4f9s4iab.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.taxi.taxi_driver",
+            "certificate_hash": "09aa9a0e929beb43d456fd8c3247e187c09d7fa7"
+          }
+        },
+        {
+          "client_id": "1055510874417-u80j97lpvfu0lqs9kblfo7ean29ea2nv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.taxi.taxi_driver",
+            "certificate_hash": "6181f890062c1926326c40d445aceb784d696874"
+          }
+        },
+        {
+          "client_id": "1055510874417-u9asq1k4bda83knjsesmskjp0ug6rv4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5bceVkPdH18a7yUWxkwsIHLSD9yE-Lms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055510874417-u9asq1k4bda83knjsesmskjp0ug6rv4p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1055510874417-69u6qjosnucjvv5nhfrd5nntc0rndvl9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.liveLocation"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
